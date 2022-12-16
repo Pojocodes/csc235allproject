@@ -1,0 +1,15 @@
+C:\Users\ZIKAMO\source\repos\DuplicateFiles\bin\Debug\net6.0\DuplicateFiles.exe
+C:\Users\ZIKAMO\source\repos\DuplicateFiles\bin\Debug\net6.0\DuplicateFiles.deps.json
+C:\Users\ZIKAMO\source\repos\DuplicateFiles\bin\Debug\net6.0\DuplicateFiles.runtimeconfig.json
+C:\Users\ZIKAMO\source\repos\DuplicateFiles\bin\Debug\net6.0\DuplicateFiles.dll
+C:\Users\ZIKAMO\source\repos\DuplicateFiles\bin\Debug\net6.0\DuplicateFiles.pdb
+C:\Users\ZIKAMO\source\repos\DuplicateFiles\obj\Debug\net6.0\DuplicateFiles.csproj.AssemblyReference.cache
+C:\Users\ZIKAMO\source\repos\DuplicateFiles\obj\Debug\net6.0\DuplicateFiles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZIKAMO\source\repos\DuplicateFiles\obj\Debug\net6.0\DuplicateFiles.AssemblyInfoInputs.cache
+C:\Users\ZIKAMO\source\repos\DuplicateFiles\obj\Debug\net6.0\DuplicateFiles.AssemblyInfo.cs
+C:\Users\ZIKAMO\source\repos\DuplicateFiles\obj\Debug\net6.0\DuplicateFiles.csproj.CoreCompileInputs.cache
+C:\Users\ZIKAMO\source\repos\DuplicateFiles\obj\Debug\net6.0\DuplicateFiles.dll
+C:\Users\ZIKAMO\source\repos\DuplicateFiles\obj\Debug\net6.0\refint\DuplicateFiles.dll
+C:\Users\ZIKAMO\source\repos\DuplicateFiles\obj\Debug\net6.0\DuplicateFiles.pdb
+C:\Users\ZIKAMO\source\repos\DuplicateFiles\obj\Debug\net6.0\DuplicateFiles.genruntimeconfig.cache
+C:\Users\ZIKAMO\source\repos\DuplicateFiles\obj\Debug\net6.0\ref\DuplicateFiles.dll

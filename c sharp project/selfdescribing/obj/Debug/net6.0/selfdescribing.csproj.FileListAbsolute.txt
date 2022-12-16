@@ -1,0 +1,15 @@
+C:\Users\ZIKAMO\source\repos\selfdescribing\bin\Debug\net6.0\selfdescribing.exe
+C:\Users\ZIKAMO\source\repos\selfdescribing\bin\Debug\net6.0\selfdescribing.deps.json
+C:\Users\ZIKAMO\source\repos\selfdescribing\bin\Debug\net6.0\selfdescribing.runtimeconfig.json
+C:\Users\ZIKAMO\source\repos\selfdescribing\bin\Debug\net6.0\selfdescribing.dll
+C:\Users\ZIKAMO\source\repos\selfdescribing\bin\Debug\net6.0\selfdescribing.pdb
+C:\Users\ZIKAMO\source\repos\selfdescribing\obj\Debug\net6.0\selfdescribing.csproj.AssemblyReference.cache
+C:\Users\ZIKAMO\source\repos\selfdescribing\obj\Debug\net6.0\selfdescribing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZIKAMO\source\repos\selfdescribing\obj\Debug\net6.0\selfdescribing.AssemblyInfoInputs.cache
+C:\Users\ZIKAMO\source\repos\selfdescribing\obj\Debug\net6.0\selfdescribing.AssemblyInfo.cs
+C:\Users\ZIKAMO\source\repos\selfdescribing\obj\Debug\net6.0\selfdescribing.csproj.CoreCompileInputs.cache
+C:\Users\ZIKAMO\source\repos\selfdescribing\obj\Debug\net6.0\selfdescribing.dll
+C:\Users\ZIKAMO\source\repos\selfdescribing\obj\Debug\net6.0\refint\selfdescribing.dll
+C:\Users\ZIKAMO\source\repos\selfdescribing\obj\Debug\net6.0\selfdescribing.pdb
+C:\Users\ZIKAMO\source\repos\selfdescribing\obj\Debug\net6.0\selfdescribing.genruntimeconfig.cache
+C:\Users\ZIKAMO\source\repos\selfdescribing\obj\Debug\net6.0\ref\selfdescribing.dll

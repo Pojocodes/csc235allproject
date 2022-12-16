@@ -1,0 +1,15 @@
+2
+7
+aaa 6
+aa 5
+sss 3
+pet 8
+wet 7
+tap 1
+cap 19
+5
+file 1
+file 2
+file 3
+uddd 2
+pop 21

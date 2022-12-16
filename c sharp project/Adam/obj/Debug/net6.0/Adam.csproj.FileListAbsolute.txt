@@ -1,0 +1,15 @@
+C:\Users\ZIKAMO\source\repos\Adam\bin\Debug\net6.0\Adam.exe
+C:\Users\ZIKAMO\source\repos\Adam\bin\Debug\net6.0\Adam.deps.json
+C:\Users\ZIKAMO\source\repos\Adam\bin\Debug\net6.0\Adam.runtimeconfig.json
+C:\Users\ZIKAMO\source\repos\Adam\bin\Debug\net6.0\Adam.dll
+C:\Users\ZIKAMO\source\repos\Adam\bin\Debug\net6.0\Adam.pdb
+C:\Users\ZIKAMO\source\repos\Adam\obj\Debug\net6.0\Adam.csproj.AssemblyReference.cache
+C:\Users\ZIKAMO\source\repos\Adam\obj\Debug\net6.0\Adam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZIKAMO\source\repos\Adam\obj\Debug\net6.0\Adam.AssemblyInfoInputs.cache
+C:\Users\ZIKAMO\source\repos\Adam\obj\Debug\net6.0\Adam.AssemblyInfo.cs
+C:\Users\ZIKAMO\source\repos\Adam\obj\Debug\net6.0\Adam.csproj.CoreCompileInputs.cache
+C:\Users\ZIKAMO\source\repos\Adam\obj\Debug\net6.0\Adam.dll
+C:\Users\ZIKAMO\source\repos\Adam\obj\Debug\net6.0\refint\Adam.dll
+C:\Users\ZIKAMO\source\repos\Adam\obj\Debug\net6.0\Adam.pdb
+C:\Users\ZIKAMO\source\repos\Adam\obj\Debug\net6.0\Adam.genruntimeconfig.cache
+C:\Users\ZIKAMO\source\repos\Adam\obj\Debug\net6.0\ref\Adam.dll
